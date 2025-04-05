@@ -1,0 +1,11 @@
+﻿  OptimisationProblems.cpp
+  SymplexTable.cpp
+C:\Users\User\source\repos\OptimisationProblems\OptimisationProblems\SymplexTable.h(8,14): warning C4091: static : пропускается слева от "SymplexTable::FindValue", когда ни одна переменная не объявлена
+  (компиляция исходного файла "OptimisationProblems.cpp")
+  
+C:\Users\User\source\repos\OptimisationProblems\OptimisationProblems\SymplexTable.h(8,14): warning C4091: static : пропускается слева от "SymplexTable::FindValue", когда ни одна переменная не объявлена
+  (компиляция исходного файла "SymplexTable.cpp")
+  
+C:\Users\User\source\repos\OptimisationProblems\OptimisationProblems\SymplexTable.cpp(14,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  OptimisationProblems.vcxproj -> C:\Users\User\source\repos\OptimisationProblems\x64\Debug\OptimisationProblems.exe
