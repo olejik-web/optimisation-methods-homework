@@ -1,0 +1,38 @@
+{
+    "openFiles": [
+        "BP_LP_sym_breaking.mzn",
+        "BP_LP_with_pre_solve.mzn",
+        "Bin Packing solution.mzn",
+        "data0.dzn",
+        "data1.dzn",
+        "BP_global.mzn",
+        "data2.dzn",
+        "data3.dzn",
+        "Bin packing data 5.dzn",
+        "Bin packing data 4.dzn"
+    ],
+    "openTab": 9,
+    "projectFiles": [
+        "BP_LP_simple_minimize.mzn",
+        "BP_LP_simple_satisfy.mzn",
+        "BP_LP_sym_breaking.mzn",
+        "BP_LP_with_pre_solve.mzn",
+        "BP_global.mzn",
+        "Bin Packing simple model.mzn",
+        "Bin Packing solution Kjellerstrand.mzn",
+        "Bin Packing solution.mzn",
+        "Bin packing data 1.dzn",
+        "Bin packing data 2.dzn",
+        "Bin packing data 3.dzn",
+        "Bin packing data 4.dzn",
+        "Bin packing data 5.dzn",
+        "BinPackingSolverConfig.mpc",
+        "data0.dzn",
+        "data1.dzn",
+        "data2.dzn",
+        "data3.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.minizinc.mip.coin-bc",
+    "selectedBuiltinConfigVersion": "2.10.11/1.17.9",
+    "version": 106
+}

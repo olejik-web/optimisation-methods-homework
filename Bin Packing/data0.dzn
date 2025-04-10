@@ -1,0 +1,4 @@
+num_stuff = 5;
+num_bins = 3;
+stuff = [1, 2, 3, 4, 5]; 
+bin_capacity = 10;

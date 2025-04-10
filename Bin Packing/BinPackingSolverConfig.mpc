@@ -1,0 +1,7 @@
+{
+    "intermediate-solutions": true,
+    "output-objective": true,
+    "solver": "org.minizinc.mip.coin-bc@2.10.11/1.17.9",
+    "solver-statistics": true,
+    "time-limit": 1500000
+}
