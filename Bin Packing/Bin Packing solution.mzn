@@ -71,7 +71,7 @@ constraint bins[1, 1] = 1;
 % PRE-SOLVE STRATEGIES
 % constraint bin_capacity * sum(b in 1..num_bins)(bin_open[b]) >= total_weight;
 
-%onstraint forall(b in 1..num_bins)(
+% constraint forall(b in 1..num_bins)(
 %  total_weight * bin_open[b] >= total_weight - bin_capacity * (b - 1)
 %);
 

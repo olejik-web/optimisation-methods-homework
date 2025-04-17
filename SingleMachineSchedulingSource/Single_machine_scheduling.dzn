@@ -1,0 +1,11 @@
+% SINGLE MACHINE SCHEDULING: MAKESPAN MINIMIZATION
+% horizon 
+T = 45;
+% number of tasks 
+n = 7;
+% processing times
+p = [1, 3, 5, 4, 7, 2, 10];
+% release times 
+r = [0, 7, 4, 0, 5, 12, 0];
+% deadlines 
+d = [6, 40, 40, 17, 35, 25, 12];

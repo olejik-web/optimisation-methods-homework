@@ -1,0 +1,26 @@
+{
+    "openFiles": [
+        "SingleMachineScheduling_1_src.mzn",
+        "SingleMachineSchedulingData_60.dzn",
+        "SingleMachineSchedulingData_80.dzn",
+        "SingleMachineSchedulingData_100.dzn",
+        "Single_machine_scheduling.dzn",
+        "SingleMachineScheduling_2_src.mzn",
+        "SingleMachineSchedulingData_30.dzn",
+        "SingleMachineSchedulingData_50.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "SingleMachineSchedulingData_100.dzn",
+        "SingleMachineSchedulingData_30.dzn",
+        "SingleMachineSchedulingData_50.dzn",
+        "SingleMachineSchedulingData_60.dzn",
+        "SingleMachineSchedulingData_80.dzn",
+        "SingleMachineScheduling_1_src.mzn",
+        "SingleMachineScheduling_2_src.mzn",
+        "Single_machine_scheduling.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
