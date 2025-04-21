@@ -138,7 +138,7 @@ if __name__ == '__main__':
             267 ,141 ,351 ,335 ,304 ,231 ,358 ,320 ,291 ,273 ,250 ,
             280 ,327 ,264 ,352 ,317 ,351 ,314 ,347 ,334 ,331 ,342]
     }
-    model = SingleMashineShedulingModel2(**data)
+    model = SingleMashineShedulingModel2(**data30)
     model.solve("appsi_highs", print_details=False)
     plt.figure(figsize=(12, 0.5 * len(model.tasksOrder) + 1), constrained_layout=True)
     grid = GridSpec(10, 1)

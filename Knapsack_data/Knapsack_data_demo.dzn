@@ -1,0 +1,9 @@
+%KNAPSACK PROBLEM SIMPLE DATA
+%number of items
+n = 8;
+% knapsack capacity
+K = 20;
+% item values
+c = [4, 2, 3, 1, 10, 6, 12, 5];
+% item weights
+w = [5, 3, 3, 1, 4, 3, 9, 7];
